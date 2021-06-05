@@ -1,0 +1,12 @@
+.navbar {
+    height: 75px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.info, .class, .rsvp {
+    color: white;
+    margin: 30px 10px;
+
+}
